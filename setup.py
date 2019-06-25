@@ -55,9 +55,9 @@ setup(
     python_requires=">=3.4",
     install_requires=[
         "fastai",
-        "matplotlib"
+        "matplotlib",
         "numpy",
-        "scikit-learn"
+        "scikit-learn",
         "tqdm",
         "warnings",
     ],
