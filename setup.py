@@ -59,6 +59,5 @@ setup(
         "numpy",
         "scikit-learn",
         "tqdm",
-        "warnings",
     ],
 )
